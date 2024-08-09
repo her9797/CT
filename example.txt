@@ -1,21 +1,61 @@
------------------------------------
-first : 2024-08-09
-secont : 979797 - 1000000
-third : SimMinsup
-fourth : java
------------------------------------
-first : 2024-08-10
-secont : 979797 - 1000000
-third : LeeInho
-fourth : java
------------------------------------
-first : 2024-08-11
-secont : 979797 - 1000000
-third : LeeYuseong
-fourth : java
------------------------------------
-first : 2024-08-12
-secont : 979797 - 1000000
-third : KimJunpyo
-fourth : dba
------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
+MP4 (MPEG-4 Part 14)
+   - Description: A widely used multimedia format that supports video, audio, and subtitles. Often used with H.264 video codec and AAC audio codec.
+   - Common Resolutions: 1920x1080 (Full HD), 1280x720 (HD), 3840x2160 (4K)
+   - Frame Rates: 24 fps, 30 fps, 60 fps
+   - Use Cases: Streaming, video playback on various devices, web video.
+-------------------------------------------------------------------------------------------------------------------------
+AVI (Audio Video Interleave)
+   - Description: A legacy multimedia format developed by Microsoft. Supports multiple video and audio codecs but is less efficient in compression compared to modern formats.
+   - Common Resolutions: 1920x1080 (Full HD), 1280x720 (HD)
+   - Frame Rates: 24 fps, 30 fps, 60 fps
+   - Use Cases: Video editing, archiving.
+-------------------------------------------------------------------------------------------------------------------------
+MKV (Matroska)
+   - Description: An open-source container format that can hold an unlimited number of video, audio, and subtitle tracks. Known for its flexibility and support for high-definition video.
+   - Common Resolutions: 1920x1080 (Full HD), 3840x2160 (4K)
+   - Frame Rates: 24 fps, 30 fps, 60 fps
+   - Use Cases: High-definition video files, storing multiple audio and subtitle tracks.
+-------------------------------------------------------------------------------------------------------------------------
+MOV (QuickTime Movie)
+   - Description: A multimedia format developed by Apple. Supports high-quality video and audio but is primarily used in the Apple ecosystem.
+   - Common Resolutions: 1920x1080 (Full HD), 1280x720 (HD), 3840x2160 (4K)
+   - Frame Rates: 24 fps, 30 fps, 60 fps
+   - Use Cases: Video editing, playback on Apple devices.
+-------------------------------------------------------------------------------------------------------------------------
+WebM
+   - Description: An open-source multimedia format designed for the web. Uses VP8/VP9 video codecs and Vorbis/Opus audio codecs.
+   - Common Resolutions: 1920x1080 (Full HD), 1280x720 (HD)
+   - Frame Rates: 24 fps, 30 fps, 60 fps
+   - Use Cases: Web video, HTML5 video playback.
+-------------------------------------------------------------------------------------------------------------------------
+FLV (Flash Video)
+   - Description: A format used to deliver video over the Adobe Flash Player. Has largely been replaced by newer technologies due to the decline of Flash.
+   - Common Resolutions: 720x480 (SD), 1280x720 (HD)
+   - Frame Rates: 24 fps, 30 fps
+   - Use Cases: Legacy web video, older streaming services.
+-------------------------------------------------------------------------------------------------------------------------
+MPEG-TS (MPEG Transport Stream)
+   - Description: A container format for transmitting and storing audio, video, and data. Commonly used in broadcast and streaming applications.
+   - Common Resolutions: 1920x1080 (Full HD), 1280x720 (HD)
+   - Frame Rates: 24 fps, 30 fps, 60 fps
+   - Use Cases: Digital TV broadcasts, streaming media.
+-------------------------------------------------------------------------------------------------------------------------
+AVCHD (Advanced Video Coding High Definition)
+   - Description: A format developed by Panasonic and Sony for high-definition video recording. Uses H.264 video codec and AC-3 audio codec.
+   - Common Resolutions: 1920x1080 (Full HD), 3840x2160 (4K)
+   - Frame Rates: 24 fps, 30 fps, 60 fps
+   - Use Cases: Consumer camcorders, high-definition video recording.
+-------------------------------------------------------------------------------------------------------------------------
+WMV (Windows Media Video)
+   - Description: A series of video codecs and corresponding video coding formats developed by Microsoft. Commonly used in Windows-based systems.
+   - Common Resolutions: 1920x1080 (Full HD), 1280x720 (HD)
+   - Frame Rates: 24 fps, 30 fps
+   - Use Cases: Video playback on Windows devices, streaming on Microsoft platforms.
+-------------------------------------------------------------------------------------------------------------------------
+HEVC (High Efficiency Video Coding)
+    - Description: Also known as H.265, this codec offers improved compression and quality compared to its predecessor, H.264. Often used for 4K and HDR content.
+    - Common Resolutions: 3840x2160 (4K), 1920x1080 (Full HD)
+    - Frame Rates: 24 fps, 30 fps, 60 fps
+    - Use Cases: 4K video streaming, high-definition video storage.
+-------------------------------------------------------------------------------------------------------------------------
