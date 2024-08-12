@@ -1,4 +1,4 @@
-package practice1;
+package BJ_18108;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
